@@ -5,3 +5,4 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" alt="Unity" width="220"/>
 </div>
 
+## HXETRP / 미플 회장 이예성입니다.
